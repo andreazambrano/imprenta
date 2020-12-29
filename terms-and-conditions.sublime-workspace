@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"produ",
+				"product-detail"
+			],
+			[
+				"chat",
+				"chat-list-item"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"shopper",
+				"shopper2"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"IN",
+				"Instagram"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"order",
+				"orderUpdate"
+			],
+			[
+				"idORder",
+				"idOrderUpdate"
+			],
+			[
+				"ord",
+				"OrderInterface"
+			],
+			[
+				"oder",
+				"orderUpdate"
+			],
+			[
+				"data",
+				"dataApi"
+			],
+			[
+				"amoun",
+				"amountRetorno"
+			],
+			[
+				"amou",
+				"amountRetorno"
+			],
+			[
+				"set",
+				"setUrl"
+			],
+			[
+				"get",
+				"getOrder"
+			],
+			[
+				"idOr",
+				"idOrderRetorno"
+			],
+			[
+				"ty",
+				"typePrice"
+			],
+			[
+				"type",
+				"typeSize"
+			],
+			[
+				"global",
+				"globalPrice"
+			],
+			[
+				"t",
+				"type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"typescr",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"typescript",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"typesc",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"type",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/frutme/projects/frutmeAdministrator/frutmeAdministrator..",
+		"/home/frutme/projects/frutmeAdministrator/src/app/services/user-w.service.ts",
+		"/home/frutme/projects/frutmeAdministrator/src/app/components/testapp/testapp.component.ts",
+		"/home/frutme/projects/frutmeAdministrator/src/app/components/testapp/testapp.component.html",
+		"/home/frutme/projects/frutmeAdministrator/src/index.html",
+		"/home/frutme/projects/frutmeAdministrator/e2e/src/app.e2e-spec.ts",
+		"/home/frutme/projects/frutmeAdministrator/src/manifest.webmanifest",
+		"/var/www/html/adminshop/action.html",
+		"/home/frutme/projects/adminshop/src/app/app.routes.ts",
+		"/home/frutme/projects/adminshop/src/app/components/index.paginas.ts",
+		"/home/frutme/projects/adminshop/src/assets/assetsadmin/css/main.css",
+		"/home/frutme/projects/adminshop/src/index.html",
+		"/home/frutme/projects/adminshop/src/app/app.component.ts",
+		"/home/frutme/projects/adminshop/src/assets/assetsadmin/js/plugin.js",
+		"/home/frutme/projects/adminshop/src/app/components/testapp/testapp.component.ts",
+		"/var/www/html/mudanzas/tema1/priceing.html",
+		"/var/www/html/mudanzas/tema1/partner.html",
+		"/var/www/html/mudanzas/tema1/index.html",
+		"/var/www/html/mudanzas/tema1/index-2.html",
+		"/var/www/html/mudanzas/tema1/faq.html",
+		"/var/www/html/mudanzas/tema1/contact-us.html",
+		"/var/www/html/mudanzas/tema1/carrers.html",
+		"/var/www/html/mudanzas/tema1/blog.html",
+		"/var/www/html/mudanzas/tema1/blog-details.html",
+		"/var/www/html/mudanzas/tema1/about-us.html",
+		"/var/www/html/mudanzas/tema1/service-single-page-tab.html",
+		"/var/www/html/mudanzas/tema1/service.html",
+		"/var/www/html/mudanzas/tema1/single-service-page.html",
+		"/var/www/html/mudanzas/tema1/team.html",
+		"/var/www/html/mudanzas/tema1/testimonials.html",
+		"/var/www/html/mudanzas/tema2/index.html",
+		"/var/www/html/mudanzas/tema2/services.html",
+		"/var/www/html/mudanzas/tema2/pricing.html",
+		"/var/www/html/mudanzas/tema2/contacts.html",
+		"/var/www/html/mudanzas/tema2/about.html",
+		"/var/www/html/mudanzas/tema2/home-2.html",
+		"/var/www/html/mudanzas/tema1/index-3.html",
+		"/var/www/html/mudanzas/tema1/css/style.css",
+		"/var/www/html/mudanzas/tema1/404.html",
+		"/var/www/html/mudanzas/tema2/js/script.js",
+		"/var/www/html/mudanzas/tema2/js/core.min.js",
+		"/var/www/html/mudanzas/tema2/fonts/fa-brands-400.eot?",
+		"/var/www/html/mudanzas/tema1/css/font-awesome.css",
+		"/var/www/html/mudanzas/tema2/css/fonts.css",
+		"/home/frutme/projects/adminshop/src/app/components/blog/blog.component.html",
+		"/home/frutme/projects/adminshop/src/app/components/testapp/testapp.component.html",
+		"/home/frutme/projects/adminshop/src/assets/assetsadmin/js/main.js",
+		"/home/frutme/projects/adminshop/src/app/components/blog/blog.component.ts",
+		"/home/frutme/projects/adminshop/src/app/components/fruittopbar/fruittopbar.component.html",
+		"/home/frutme/projects/adminshop/src/app/components/adminfooter/adminfooter.component.html",
+		"/home/frutme/projects/adminshop/src/app/components/order/order.component.html",
+		"/home/frutme/projects/adminshop/src/app/components/adminfooter/adminfooter.component.ts",
+		"/home/frutme/projects/adminshop/src/app/services/auth.service.ts",
+		"/home/frutme/projects/adminshop/src/app/services/data-api.service.ts",
+		"/home/frutme/projects/adminshop/src/app/app.component.html",
+		"/var/www/html/adminshop/index.html",
+		"/home/frutme/projects/adminshop/angular.json",
+		"/home/frutme/projects/adminshop/e2e/src/app.e2e-spec.ts",
+		"/home/frutme/projects/adminshop/karma.conf.js",
+		"/home/frutme/projects/adminshop/package-lock.json",
+		"/home/frutme/projects/adminshop/package.json",
+		"/home/frutme/projects/adminshop/src/app/components/fruitfooter/fruitfooter.component.html",
+		"/home/frutme/projects/adminshop/src/manifest.webmanifest",
+		"/home/frutme/projects/ddclothe/README.md",
+		"/home/frutme/projects/ddclothe/src/app/app.component.spec.ts",
+		"/home/frutme/projects/ddclothe/src/app/services/tixs.service.ts",
+		"/home/frutme/projects/ddclothe/src/index.html",
+		"/home/frutme/projects/frutmeSuper/src/app/services/auth.service.ts",
+		"/home/frutme/projects/frutmeSuper/src/app/services/data-api.service.ts",
+		"/home/frutme/projects/prasicl/src/app/services/auth.service.ts",
+		"/home/frutme/projects/prasicl/src/app/services/data-api.service.ts",
+		"/home/frutme/projects/frutmeSuper/src/app/components/fruittopbar/fruittopbar.component.ts",
+		"/home/frutme/projects/frutmeSuper/src/app/components/testapp/testapp.component.html",
+		"/home/frutme/projects/frutmeSuper/src/app/app.component.html",
+		"/home/frutme/projects/frutmeSuper/src/index.html",
+		"/home/frutme/projects/frutmeSuper/src/assets/assetssuper/css/style.css",
+		"/home/frutme/projects/frutmeSuper/src/assets/assetssuper/css/responsive.css",
+		"/home/frutme/projects/frutmeSuper/src/app/components/fruittopbar/fruittopbar.component.html",
+		"/home/frutme/projects/frutmeSuper/src/app/components/testapp/testapp.component.ts",
+		"/home/frutme/projects/frutmeSuper/src/assets/assetsfruit/fonts/fa-regular-400.svg",
+		"/home/frutme/projects/dfrutme/src/app/components/config/config.component.ts",
+		"/home/frutme/projects/dfrutme/src/app/services/data-api.service.ts",
+		"/home/frutme/projects/dfrutme/src/app/services/auth.service.ts",
+		"/home/frutme/projects/dfrutme/src/app/app.component.ts",
+		"/home/frutme/projects/uploader/src/app/services/activity-tracker.service.ts",
+		"/home/frutme/projects/uploader/src/app/services/auth.service.ts",
+		"/home/frutme/projects/uploader/src/app/services/data-api.service.ts",
+		"/var/www/html/frutmes/index.html",
+		"/var/www/html/frutmes/offers.html",
+		"/var/www/html/frutmes/order_placed.html",
+		"/var/www/html/frutmes/our_blog.html",
+		"/var/www/html/frutmes/press.html",
+		"/var/www/html/frutmes/privacy_policy.html",
+		"/var/www/html/frutmes/refund_and_return_policy.html",
+		"/var/www/html/frutmes/request_product.html",
+		"/var/www/html/frutmes/shop_grid.html",
+		"/var/www/html/frutmes/about_us.html",
+		"/var/www/html/frutmes/bill.html",
+		"/var/www/html/frutmes/blog_detail_view.html",
+		"/var/www/html/frutmes/career.html",
+		"/var/www/html/frutmes/checkout.html",
+		"/var/www/html/frutmes/contact_us.html",
+		"/var/www/html/frutmes/dashboard_my_addresses.html",
+		"/var/www/html/frutmes/dashboard_my_orders.html",
+		"/var/www/html/frutmes/single_product_view.html",
+		"/var/www/html/frutmes/term_and_conditions.html",
+		"/var/www/html/gambo/index.html",
+		"/var/www/html/frutmes/dashboard_my_rewards.html",
+		"/var/www/html/frutmes/dashboard_my_wallet.html",
+		"/var/www/html/frutmes/dashboard_my_wishlist.html",
+		"/var/www/html/frutmes/dashboard_overview.html",
+		"/var/www/html/frutmes/faq.html",
+		"/var/www/html/frutmes/js/custom.js",
+		"/var/www/html/frutmes/css/style.css",
+		"/var/www/html/frutmes/css/responsive.css",
+		"/var/www/html/frutmes/css/night-mode.css",
+		"/var/www/html/frutmes/css/step-wizard.css",
+		"/var/www/html/frutmes/images/logo.svg",
+		"/var/www/html/frutmes/sign_in.html",
+		"/var/www/html/frutmes/sign_up.html",
+		"/var/www/html/frutmes/forgot_password.html",
+		"/var/www/html/frytmes",
+		"/var/www/html/gambo/css/responsive.css",
+		"/var/www/html/gambo/css/style.css",
+		"/var/www/html/gambo/dashboard_my_addresses.html",
+		"/var/www/html/gambo/dashboard_my_orders.html",
+		"/var/www/html/gambo/dashboard_my_rewards.html",
+		"/var/www/html/gambo/dashboard_my_wallet.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "terms-and-conditions.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"frutme/src/app/services/auth.service.ts"
+			],
+			[
+				"addti",
+				"src/app/components/addtixs/addtixs.component.html"
+			],
+			[
+				"prasiproductde",
+				"src/app/components/prasiproductdetail/prasiproductdetail.component.html"
+			],
+			[
+				"prasiprodu",
+				"src/app/components/prasiproductdetail/prasiproductdetail.component.ts"
+			],
+			[
+				"prasipro",
+				"src/app/components/prasiproductcatalog/prasiproductcatalog.component.ts"
+			],
+			[
+				"addtic",
+				"src/app/components/addtixs/addtixs.component.html"
+			],
+			[
+				"app.mod",
+				"src/app/app.module.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
